@@ -514,9 +514,10 @@ footer h2 {
     width: 120%;
     max-width: 717px;
     position: relative;
-    bottom: 4rem;
+    bottom: 5rem;
   }
   main > section:nth-child(2) > div:nth-child(2) {
+    overflow-x: hidden;
     background-image: url("./images/image-mockups.png");
   }
   main > section:nth-child(2) > div:nth-child(2) img:nth-child(2) {
